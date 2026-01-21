@@ -2,8 +2,7 @@
 Engineering Candidate | Systems Architect & Product Strategist<br><br>Driven by the intersection of robust engineering principles and intentional design, I focus on developing scalable, high-performance software solutions that address complex real-world challenges. My approach integrates technical rigor with a keen eye for user-centric interfaces and the strategic implementation of emerging technologies.
 <br>
 
-<b><u>Core Philosophy</u></b>
-<br>
+<h3><u>Core Philosophy</u></h3>
 
 I believe that technical mastery is best achieved through an iterative, project-based lifecycle. By transitioning theoretical frameworks into deployed applications, I prioritize "shipping" as the ultimate metric for learning and professional growth.<br><br>Product Experience (UI/UX): Bridging the gap between backend complexity and intuitive user interaction.<br><br>Rapid Prototyping: Accelerating the development cycle from conceptualization to execution.
 
