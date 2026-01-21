@@ -1,6 +1,7 @@
 # 💫 About Me:
 Engineering Candidate | Systems Architect & Product Strategist<br><br>Driven by the intersection of robust engineering principles and intentional design, I focus on developing scalable, high-performance software solutions that address complex real-world challenges. My approach integrates technical rigor with a keen eye for user-centric interfaces and the strategic implementation of emerging technologies.
 <br>
+
 <b><u>Core Philosophy</u></b>
 <br>
 
