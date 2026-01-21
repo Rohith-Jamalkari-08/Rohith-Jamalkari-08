@@ -1,31 +1,50 @@
-# 💫 About Me:
-Engineering Candidate | Systems Architect & Product Strategist<br><br>Driven by the intersection of robust engineering principles and intentional design, I focus on developing scalable, high-performance software solutions that address complex real-world challenges. My approach integrates technical rigor with a keen eye for user-centric interfaces and the strategic implementation of emerging technologies.
-<br>
-
-<h3><u>Core Philosophy</u></h3>
-
-I believe that technical mastery is best achieved through an iterative, project-based lifecycle. By transitioning theoretical frameworks into deployed applications, I prioritize "shipping" as the ultimate metric for learning and professional growth.<br><br>Product Experience (UI/UX): Bridging the gap between backend complexity and intuitive user interaction.<br><br>Rapid Prototyping: Accelerating the development cycle from conceptualization to execution.
-
-
-## 🌐 Socials:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/rohithjamalkari.bsky.social)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-jamalkari-90a232314)
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/user/Macswan_87/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rohitjamalkari@icloud.com)
-
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=flat&logo=swift&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Alpine.js](https://img.shields.io/badge/alpinejs-white.svg?style=flat&logo=alpinedotjs&logoColor=%238BC0D0) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=flat&logo=angularjs&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=flat&logo=nuxt.js&logoColor=#00DC82) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Rohith-Jamalkari-08&theme=dark&hide_border=false&show_icons=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Rohith-Jamalkari-08&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohith-Jamalkari-08&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Rohith-Jamalkari-08&theme=radical&no-frame=false&no-bg=false&margin-w=4)<br/>
-![](https://github-profile-trophy.vercel.app/?username=Rohith-Jamalkari-08&theme=radical&no-bg=true&no-frame=true)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=3EB489&center=true&vCenter=true&width=800&height=60&lines=Hi+there%2C+I'm+Rohit+Jamalkari+👋;Engineering+Candidate;Build+Intentionally.+Ship+Relentlessly" alt="Typing SVG" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Rohith-Jamalkari-08&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 💫 About Me
+
+**Engineering Candidate | Systems Architect & Product Strategist**
+
+Driven by the intersection of robust engineering principles and intentional design, I focus on developing scalable, high-performance software solutions that address complex real-world challenges. My approach integrates technical rigor with a keen eye for user-centric interfaces and the strategic implementation of emerging technologies.
+
+### <u>Core Philosophy</u>
+
+I believe that technical mastery is best achieved through an iterative, project-based lifecycle. By transitioning theoretical frameworks into deployed applications, I prioritize **"shipping"** as the ultimate metric for learning and professional growth.
+
+* **Product Experience (UI/UX):** Bridging the gap between backend complexity and intuitive user interaction.
+* **Rapid Prototyping:** Accelerating the development cycle from conceptualization to execution.
+
+---
+
+## 🌐 Socials
+<p align="left">
+<a href="https://bsky.app/profile/rohithjamalkari.bsky.social" target="_blank"><img src="https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky" /></a>
+<a href="https://www.linkedin.com/in/rohit-jamalkari-90a232314" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.reddit.com/user/Macswan_87/" target="_blank"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white" alt="Reddit" /></a>
+<a href="mailto:rohitjamalkari@icloud.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+## 💻 Tech Stack
+### Languages & Frameworks
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=flat&logo=swift&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=flat&logo=nuxt.js&logoColor=#00DC82)
+
+### Design & Data
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rohith-Jamalkari-08&theme=dark&show_icons=true" alt="Rohit's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohith-Jamalkari-08&theme=dark&layout=compact" alt="Top Languages" />
+  <br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Rohith-Jamalkari-08&theme=radical" alt="Trophies" />
+</p>
+
+---
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Rohith-Jamalkari-08&icon=0&color=0" alt="Visitor Count" />
+</p>
