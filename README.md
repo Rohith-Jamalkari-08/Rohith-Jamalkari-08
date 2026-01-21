@@ -1,17 +1,15 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=3EB489&center=true&vCenter=true&width=800&height=60&lines=Hi+there%2C+I'm+Rohit+Jamalkari+👋;Engineering+Candidate;Build+Intentionally.+Ship+Relentlessly" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=3EB489&center=true&vCenter=true&width=800&height=60&lines=Hi+there%2C+I'm+Rohit+Jamalkari+👋;Building+scalable+apps+with+clean+design;App+Developer+%7C+UI%2FUX+Enthusiast;Turning+ideas+into+impactful+software;Ship+code.+Learn+fast.+Repeat." alt="Typing SVG" />
 </p>
 
 ---
 
 # 💫 About Me
-
 **Engineering Candidate | Systems Architect & Product Strategist**
 
 Driven by the intersection of robust engineering principles and intentional design, I focus on developing scalable, high-performance software solutions that address complex real-world challenges. My approach integrates technical rigor with a keen eye for user-centric interfaces and the strategic implementation of emerging technologies.
 
 ### <u>Core Philosophy</u>
-
 I believe that technical mastery is best achieved through an iterative, project-based lifecycle. By transitioning theoretical frameworks into deployed applications, I prioritize **"shipping"** as the ultimate metric for learning and professional growth.
 
 * **Product Experience (UI/UX):** Bridging the gap between backend complexity and intuitive user interaction.
@@ -27,24 +25,31 @@ I believe that technical mastery is best achieved through an iterative, project-
 <a href="mailto:rohitjamalkari@icloud.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-## 💻 Tech Stack
-### Languages & Frameworks
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=flat&logo=swift&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=flat&logo=nuxt.js&logoColor=#00DC82)
+---
 
-### Design & Data
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
+# 💻 Tech Stack
+### Frontend & Backend
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=flat&logo=swift&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
+
+### Design & Creative
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white)
+
+### Data Science
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rohith-Jamalkari-08&theme=dark&show_icons=true" alt="Rohit's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohith-Jamalkari-08&theme=dark&layout=compact" alt="Top Languages" />
-  <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=Rohith-Jamalkari-08&theme=radical" alt="Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rohith-Jamalkari-08&theme=dark&show_icons=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohith-Jamalkari-08&theme=dark&layout=compact" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Rohith-Jamalkari-08&theme=radical&no-frame=false" />
 </p>
 
 ---
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Rohith-Jamalkari-08&icon=0&color=0" alt="Visitor Count" />
+  <img src="https://visitcount.itsvg.in/api?id=Rohith-Jamalkari-08&icon=0&color=0" />
 </p>
