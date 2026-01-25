@@ -54,6 +54,6 @@ I believe that technical mastery is best achieved through an iterative, project-
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohith-Jamalkari-08&theme=dark&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohith-Jamalkari-08&theme=dark&layout=compact&langs_count=20" />
 </p>
 
