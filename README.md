@@ -46,7 +46,6 @@ I believe that technical mastery is best achieved through an iterative, project-
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
 
 ---
-
 ## 📊 GitHub Stats
 
 ![Rohith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rohith-Jamalkari-08&show_icons=true&theme=dark&cache_seconds=1800)
