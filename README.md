@@ -49,8 +49,8 @@ I believe that technical mastery is best achieved through an iterative, project-
 
 ## 📊 GitHub Stats
 
-![Rohith's GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Rohith-Jamalkari-08&show_icons=true&theme=dark&cache_seconds=1800)
+  ![Rohith's GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Rohith-Jamalkari-08&show_icons=true&theme=dark&cache_seconds=1800)
 
 ## 💻 Top Languages
 
-![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Rohith-Jamalkari-08&layout=compact&theme=dark&cache_seconds=1800)
+   ![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Rohith-Jamalkari-08&layout=compact&theme=dark&cache_seconds=1800)
